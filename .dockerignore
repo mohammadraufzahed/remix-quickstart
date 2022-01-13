@@ -1,0 +1,6 @@
+.cache
+.netlify
+.vagrant
+vagrant
+node_modules
+package-lock.json

@@ -4,9 +4,8 @@
 module.exports = {
   appDirectory: "app",
   assetsBuildDirectory: "public/build",
-
   publicPath: "/build/",
-	serverBuildDirectory: "netlify/functions/server/build",
-  devServerPort: 3212,
+  serverBuildDirectory: "netlify/functions/server/build",
+  devServerPort: 8002,
   ignoredRouteFiles: [".*"],
 };
